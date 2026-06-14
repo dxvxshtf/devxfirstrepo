@@ -1,4 +1,4 @@
 # devxfirstrepo
 this is just a trial repo cus its my first ever repo
 <br>
-Author: Devesh Kumar Jena
+Author: Devesh Kumar Jena (lr dav ps)
